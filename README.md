@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, ML and Data Science
 - 💞️ I’m looking to collaborate on analytics projects and other interesting projects around the areas of my interest
 - 📫 Reach me through this email: nkirotemwendam@gmail.com
--  Check out my linkedin profile : https://www.linkedin.com/in/nkirote-mwenda-24086a121/
+-  Linkedin profile : https://www.linkedin.com/in/nkirote-miriam-mwenda-24086a121/
 <!---
 NkiroteHeda/NkiroteHeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
